@@ -1,0 +1,5 @@
+node_modules/
+server/securityConstants.js
+
+# # Ignore files related to API keys move database connection to env file
+# .env 
